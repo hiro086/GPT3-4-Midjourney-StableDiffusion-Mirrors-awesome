@@ -6,6 +6,16 @@
 
 | 序号 | 站点名称                    | 更新时间        | 免 KEY/支持注册 |
 | ---- | --------------------------- | --------------- | --------------- | --- |
+| 89 | http://43.153.99.145:3002 | ChatGPT Web | 2023-05-22 | 否 | 
+| 88 | http://128.1.135.112:3002 | ChatGPT Web | 2023-05-22 | 否 | 
+| 87 | http://43.142.15.74:81 | ChatGPT Web | 2023-05-22 | 否 | 
+| 86 | http://119.91.151.241:8899 | ChatGPT UI | 2023-05-22 | 否 | 
+| 85 | http://152.228.175.161:8080 | ChatGPT UI | 2023-05-22 | 是 | 
+| 84 | https://chat.jarvis73.com | ChatGPT UI | 2023-05-22 | 否 | 
+| 83 | https://voice2gpt.de | ChatGPT UI | 2023-05-22 | 否 | 
+| 82 | https://www.voice2gpt.de | ChatGPT UI | 2023-05-22 | 是 | 
+| 81 | https://chat.intcomputing.com | ChatGPT UI | 2023-05-22 | 是 | 
+| 80 | http://149.248.3.21:3002 | ChatGPT Web | 2023-05-22 | 否 | 
 | 79 | http://45.76.166.102:3002 | ChatGPT Web | 2023-05-21 | 否 | 
 | 78 | http://45.77.249.141:3002 | ChatGPT Web | 2023-05-21 | 否 | 
 | 77 | https://gptcn.ai | ChatGPT UI | 2023-05-21 | 否 | 
