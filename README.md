@@ -6,6 +6,16 @@
 
 | 序号 | 站点链接 | 站点名称 | 更新时间 | 免 KEY/支持注册 |
 | ---- | --------------------------- | --------------- | --------------- | --- |
+| 259 | http://139.198.121.134:901 | ChatGPT UI | 2023-06-08 | 是 | 
+| 258 | http://mskycoder.com | ChatGPT UI | 2023-06-08 | 否 | 
+| 257 | https://xpmin.com | ChatGPT UI | 2023-06-08 | 是 | 
+| 256 | http://diaolingcg.com | ChatGPT UI | 2023-06-08 | 是 | 
+| 255 | http://61.150.11.146:8000 | ChatGPT Web | 2023-06-08 | 是 | 
+| 254 | http://117.28.121.1:3002 | ChatGPT Web | 2023-06-08 | 是 | 
+| 253 | http://117.71.62.30:8899 | ChatGPT Web | 2023-06-08 | 是 | 
+| 252 | http://101.36.107.147:3002 | ChatGPT Web | 2023-06-08 | 是 | 
+| 251 | http://54.219.152.36:8080 | ChatGPT Web | 2023-06-08 | 是 | 
+| 250 | http://47.88.12.53:3005 | ChatGPT Web | 2023-06-08 | 否 | 
 | 249 | http://mskycoder.com | ChatGPT UI | 2023-06-07 | 否 | 
 | 248 | https://xpmin.com | ChatGPT UI | 2023-06-07 | 是 | 
 | 247 | http://diaolingcg.com | ChatGPT UI | 2023-06-07 | 是 | 
