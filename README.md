@@ -6,6 +6,16 @@
 
 | 序号 | 站点链接 | 站点名称 | 更新时间 | 免 KEY/支持注册 |
 | ---- | --------------------------- | --------------- | --------------- | --- |
+| 279 | http://38.147.168.11 | ChatGPT UI | 2023-06-10 | 是 | 
+| 278 | http://119.59.99.107 | ChatGPT UI | 2023-06-10 | 是 | 
+| 277 | http://60.176.155.21:3002 | ChatGPT UI | 2023-06-10 | 是 | 
+| 276 | http://aispeakyou.com | ChatGPT UI | 2023-06-10 | 否 | 
+| 275 | http://111.78.108.173:3002 | ChatGPT Web | 2023-06-10 | 是 | 
+| 274 | http://183.128.106.29:3002 | ChatGPT Web | 2023-06-10 | 是 | 
+| 273 | http://aicoming.top | ChatGPT UI | 2023-06-10 | 否 | 
+| 272 | http://72.18.80.48:8083 | ChatGPT UI | 2023-06-10 | 是 | 
+| 271 | http://serviceopenai.com | ChatGPT UI | 2023-06-10 | 是 | 
+| 270 | http://odkk.org | ChatGPT UI | 2023-06-10 | 否 | 
 | 269 | http://fuckfuck.info | ChatGPT UI | 2023-06-09 | 否 | 
 | 268 | http://www.fuckfuck.info | ChatGPT UI | 2023-06-09 | 否 | 
 | 267 | http://16.16.121.232 | ChatGPT UI | 2023-06-09 | 否 | 
