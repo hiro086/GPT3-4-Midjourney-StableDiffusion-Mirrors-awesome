@@ -6,6 +6,16 @@
 
 | 序号 | 站点链接 | 站点名称 | 更新时间 | 免 KEY/支持注册 |
 | ---- | --------------------------- | --------------- | --------------- | --- |
+| 349 | http://168.119.90.135:81 | ChatGPT UI | 2023-06-17 | 是 | 
+| 348 | http://155.248.209.214 | ChatGPT UI | 2023-06-17 | 否 | 
+| 347 | http://www.aicoming.top | ChatGPT UI | 2023-06-17 | 否 | 
+| 346 | http://20.255.62.156:8000 | ChatGPT UI | 2023-06-17 | 否 | 
+| 345 | https://www.bitbooster.tech | ChatGPT UI | 2023-06-17 | 否 | 
+| 344 | https://chat1.calc.com.hk | ChatGPT UI | 2023-06-17 | 否 | 
+| 343 | http://www.yzhifu.online | ChatGPT UI | 2023-06-17 | 是 | 
+| 342 | https://chat.gptglobal.ru | ChatGPT UI | 2023-06-17 | 是 | 
+| 341 | http://47.243.20.181:8090 | ChatGPT Web | 2023-06-17 | 否 | 
+| 340 | http://66.151.51.5:9600 | ChatGPT UI | 2023-06-17 | 否 | 
 | 339 | http://www.home8.fun:8090 | ChatGPT UI | 2023-06-16 | 是 | 
 | 338 | https://urbit.rashomon.blue | ChatGPT UI | 2023-06-16 | 是 | 
 | 337 | http://158.220.97.86 | ChatGPT UI | 2023-06-16 | 是 | 
