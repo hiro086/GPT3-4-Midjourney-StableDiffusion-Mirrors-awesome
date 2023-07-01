@@ -1,8 +1,8 @@
-# chatgpt-web-awesome
+# GPT3-GPT4-Midjourney-StableDiffusion-Mirrors-awesome
 
-每天收集 10 个 ChatGPT 国内镜像站点，免搭建，快速实现 ChatGPT 打开即用
+国内AI镜像站的导航大全，每天收集公开的GPT3.5+GPT4受限试用+Midjourney+StableDiffusion站点
 
-浏览更多站点信息，请移步[网页版](https://gpt10.site)
+浏览更多站点信息，请移步[网页版](https://ai-box.cn)
 
 | 序号 | 站点链接 | 站点名称 | 更新时间 | 免 KEY/支持注册 |
 | ---- | --------------------------- | --------------- | --------------- | --- |
