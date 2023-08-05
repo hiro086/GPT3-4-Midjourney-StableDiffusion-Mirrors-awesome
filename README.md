@@ -8,6 +8,16 @@
 
 | 序号 | 站点链接 | 站点名称 | 更新时间 | 免 KEY/支持注册 |
 | ---- | --------------------------- | --------------- | --------------- | --- |
+| 499 | http://165.154.130.92:3002 | ChatGPT Web | 2023-08-06 | 否 | 
+| 498 | http://20.194.195.144:3002 | ChatGPT Web | 2023-08-06 | 否 | 
+| 497 | http://47.251.21.241:3002 | ChatGPT Web | 2023-08-06 | 否 | 
+| 496 | http://103.200.29.53:3002 | ChatGPT Web | 2023-08-06 | 否 | 
+| 495 | http://123.57.72.2:3002 | ChatGPT Web | 2023-08-06 | 否 | 
+| 494 | http://www.wuminghao.fun:3000 | ChatGPT Next Web | 2023-08-06 | 否 | 
+| 493 | http://3.21.7.215:8000 | ChatGPT Next Web | 2023-08-06 | 否 | 
+| 492 | https://ai.linweifan.com | ChatGPT Next Web | 2023-08-06 | 否 | 
+| 491 | https://chat.lisonfan.com:8443 | ChatGPT Next Web | 2023-08-06 | 否 | 
+| 490 | http://129.226.153.61 | ChatGPT Web | 2023-08-06 | 否 | 
 | 489 | https://app.iosshop.xyz | JCM-AI | 2023-08-05 | 否 | 
 | 488 | http://101.33.242.32:8084 | JCM-AI | 2023-08-05 | 否 | 
 | 487 | https://maple.qapi.net | JCM-AI | 2023-08-05 | 否 | 
