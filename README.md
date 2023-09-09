@@ -8,6 +8,16 @@
 
 | 序号 | 站点链接 | 站点名称 | 更新时间 | 免 KEY/支持注册 |
 | ---- | --------------------------- | --------------- | --------------- | --- |
+| 572 | https://chat.venise.vip | ChatGPT Next Web | 2023-09-10 | 否 | 
+| 571 | http://101.35.84.173:81 | ChatGPT Next Web | 2023-09-10 | 否 | 
+| 570 | http://123.57.13.5:3001 | ChatGPT Next Web | 2023-09-10 | 否 | 
+| 569 | http://54.67.79.197:81 | ChatGPT Next Web | 2023-09-10 | 否 | 
+| 568 | http://43.139.60.35:8003 | ChatGPT Next Web | 2023-09-10 | 否 | 
+| 567 | http://109.206.247.135 | ChatGPT Web | 2023-09-10 | 否 | 
+| 566 | https://gpt.ai.ptn.gs | ChatGPT UI | 2023-09-10 | 否 | 
+| 565 | http://101.42.14.182:3002 | ChatGPT Web | 2023-09-10 | 否 | 
+| 564 | https://nc.openai.help | ChatGPT Next Web | 2023-09-10 | 否 | 
+| 563 | http://nc.openai.help | ChatGPT Next Web | 2023-09-10 | 否 | 
 | 562 | http://94.74.68.234:8080 | JCM-AI | 2023-09-09 | 否 | 
 | 561 | http://8.219.242.157 | ChatGPT UI | 2023-09-09 | 否 | 
 | 560 | http://35.188.208.87 | ChatGPT UI | 2023-09-09 | 否 | 
