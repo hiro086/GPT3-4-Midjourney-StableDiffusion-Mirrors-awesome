@@ -8,6 +8,16 @@
 
 | 序号 | 站点链接 | 站点名称 | 更新时间 | 免 KEY/支持注册 |
 | ---- | --------------------------- | --------------- | --------------- | --- |
+| 592 | http://123.56.225.76 | ChatGPT Web | 2023-09-12 | 否 | 
+| 591 | http://120.78.137.31 | ChatGPT Next Web | 2023-09-12 | 否 | 
+| 590 | http://38.6.181.157 | ChatGPT Next Web | 2023-09-12 | 否 | 
+| 589 | http://101.37.167.51 | ChatGPT Next Web | 2023-09-12 | 否 | 
+| 588 | https://softly.cloud | ChatGPT Next Web | 2023-09-12 | 否 | 
+| 587 | http://mail.aluowang.top | JCM-AI | 2023-09-12 | 否 | 
+| 586 | http://180.76.96.47:3002 | ChatGPT Web | 2023-09-12 | 否 | 
+| 585 | http://45.32.94.123:3002 | ChatGPT Web | 2023-09-12 | 否 | 
+| 584 | http://154.23.241.68:3002 | ChatGPT Web | 2023-09-12 | 否 | 
+| 583 | http://124.221.162.52:8000 | ChatGPT Next Web | 2023-09-12 | 否 | 
 | 582 | http://155.248.198.117:5000 | ChatGPT Next Web | 2023-09-11 | 否 | 
 | 581 | http://43.153.39.167:3002 | ChatGPT Web | 2023-09-11 | 否 | 
 | 580 | https://ichat.edgelab.team | ChatGPT Next Web | 2023-09-11 | 否 | 
