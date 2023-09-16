@@ -8,6 +8,16 @@
 
 | 序号 | 站点链接 | 站点名称 | 更新时间 | 免 KEY/支持注册 |
 | ---- | --------------------------- | --------------- | --------------- | --- |
+| 642 | http://113.205.99.134:3123 | ChatGPT Next Web | 2023-09-17 | 否 | 
+| 641 | http://8.217.73.177:2012 | ChatGPT Web | 2023-09-17 | 否 | 
+| 640 | http://180.108.94.170:3002 | ChatGPT Web | 2023-09-17 | 否 | 
+| 639 | http://47.120.11.169:6488 | ChatGPT Next Web | 2023-09-17 | 否 | 
+| 638 | http://112.231.189.190:30000 | ChatGPT Next Web | 2023-09-17 | 否 | 
+| 637 | https://chatbot.allsoftcould.xyz | ChatGPT Next Web | 2023-09-17 | 否 | 
+| 636 | http://23.94.137.247 | ChatGPT Next Web | 2023-09-17 | 否 | 
+| 635 | http://wechat.smart-ccdgut.com | ChatGPT Next Web | 2023-09-17 | 否 | 
+| 634 | http://165.154.134.93 | ChatGPT Next Web | 2023-09-17 | 否 | 
+| 633 | https://ai.ashiqi.club | ChatGPT Next Web | 2023-09-17 | 否 | 
 | 632 | http://165.154.130.92:3002 | ChatGPT Web | 2023-09-16 | 否 | 
 | 631 | http://20.194.195.144:3002 | ChatGPT Web | 2023-09-16 | 否 | 
 | 630 | http://47.251.21.241:3002 | ChatGPT Web | 2023-09-16 | 否 | 
