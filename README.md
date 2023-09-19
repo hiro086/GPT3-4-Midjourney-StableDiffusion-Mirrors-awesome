@@ -8,6 +8,16 @@
 
 | 序号 | 站点链接 | 站点名称 | 更新时间 | 免 KEY/支持注册 |
 | ---- | --------------------------- | --------------- | --------------- | --- |
+| 672 | http://zhouhong.tech | ChatGPT Next Web | 2023-09-20 | 否 | 
+| 671 | https://zhouhong.tech | ChatGPT Next Web | 2023-09-20 | 否 | 
+| 670 | http://43.130.17.174:3080 | ChatGPT Next Web | 2023-09-20 | 否 | 
+| 669 | http://43.153.58.109:8080 | ChatGPT Next Web | 2023-09-20 | 否 | 
+| 668 | http://113.116.5.81:3002 | ChatGPT Next Web | 2023-09-20 | 否 | 
+| 667 | http://chat.imwing.cc | ChatGPT Next Web | 2023-09-20 | 否 | 
+| 666 | https://chat.imwing.cc | ChatGPT Next Web | 2023-09-20 | 否 | 
+| 665 | http://154.12.41.154 | ChatGPT Next Web | 2023-09-20 | 否 | 
+| 664 | http://113.89.203.74:3001 | ChatGPT Next Web | 2023-09-20 | 否 | 
+| 663 | http://112.4.97.79:3000 | ChatGPT Next Web | 2023-09-20 | 否 | 
 | 662 | http://8.141.52.3:8585 | JCM-AI | 2023-09-19 | 否 | 
 | 661 | http://103.195.150.45 | ChatGPT Web | 2023-09-19 | 否 | 
 | 660 | http://172.93.221.133:3000 | ChatGPT Next Web | 2023-09-19 | 否 | 
