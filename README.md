@@ -8,6 +8,16 @@
 
 | 序号 | 站点链接 | 站点名称 | 更新时间 | 免 KEY/支持注册 |
 | ---- | --------------------------- | --------------- | --------------- | --- |
+| 682 | http://8.222.162.64 | ChatGPT Next Web | 2023-09-21 | 否 | 
+| 681 | http://39.100.80.128 | ChatGPT Next Web | 2023-09-21 | 否 | 
+| 680 | http://122.224.164.22:7860 | ChatGPT Next Web | 2023-09-21 | 否 | 
+| 679 | http://ai123.p319.com | ChatGPT Next Web | 2023-09-21 | 否 | 
+| 678 | http://www.98k.fun:9999 | ChatGPT Next Web | 2023-09-21 | 否 | 
+| 677 | https://chat.maity.gq | ChatGPT Next Web | 2023-09-21 | 否 | 
+| 676 | http://45.76.188.10:9991 | ChatGPT Next Web | 2023-09-21 | 否 | 
+| 675 | http://172.245.139.157:8999 | ChatGPT Next Web | 2023-09-21 | 否 | 
+| 674 | http://47.88.32.149:3002 | ChatGPT Web | 2023-09-21 | 否 | 
+| 673 | http://114.115.222.154:8086 | EduGPT Web | 2023-09-21 | 否 | 
 | 672 | http://zhouhong.tech | ChatGPT Next Web | 2023-09-20 | 否 | 
 | 671 | https://zhouhong.tech | ChatGPT Next Web | 2023-09-20 | 否 | 
 | 670 | http://43.130.17.174:3080 | ChatGPT Next Web | 2023-09-20 | 否 | 
