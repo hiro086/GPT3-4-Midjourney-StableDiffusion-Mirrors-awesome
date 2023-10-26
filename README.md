@@ -8,6 +8,16 @@
 
 | 序号 | 站点链接 | 站点名称 | 更新时间 | 免 KEY/支持注册 |
 | ---- | --------------------------- | --------------- | --------------- | --- |
+| 592 | http://47.105.94.181 | ChatGPT Web | 2023-10-27 | 否 | 
+| 591 | http://165.154.133.175 | ChatGPT Next Web | 2023-10-27 | 否 | 
+| 590 | https://chatgpt.ligl.top | ChatGPT Next Web | 2023-10-27 | 否 | 
+| 589 | https://chat.mddcloud.cn | ChatGPT Next Web | 2023-10-27 | 否 | 
+| 588 | http://116.204.103.156:3002 | ChatGPT Web | 2023-10-27 | 否 | 
+| 587 | http://54.146.248.180 | Edward AI Chat | 2023-10-27 | 否 | 
+| 586 | http://111.231.25.215:3002 | ChatGPT Web | 2023-10-27 | 否 | 
+| 585 | http://74.120.170.92:8881 | ChatGPT Next Web | 2023-10-27 | 否 | 
+| 584 | http://aichat.wmnetwork.cc | ChatGPT Next Web | 2023-10-27 | 否 | 
+| 583 | http://123.56.225.76 | ChatGPT Web | 2023-10-27 | 否 | 
 | 582 | http://45.32.94.123:3002 | ChatGPT Web | 2023-10-26 | 否 | 
 | 581 | http://154.23.241.68:3002 | ChatGPT Web | 2023-10-26 | 否 | 
 | 580 | http://124.221.162.52:8000 | ChatGPT Next Web | 2023-10-26 | 否 | 
