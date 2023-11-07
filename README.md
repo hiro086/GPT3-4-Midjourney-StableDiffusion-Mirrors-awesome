@@ -8,6 +8,16 @@
 
 | 序号 | 站点链接 | 站点名称 | 更新时间 | 免 KEY/支持注册 |
 | ---- | --------------------------- | --------------- | --------------- | --- |
+| 712 | http://www.abovecd.top:3000 | ChatGPT API Demo | 2023-11-08 | 否 | 
+| 711 | http://60.204.156.10:3000 | ChatGPT Next Web | 2023-11-08 | 否 | 
+| 710 | http://101.42.166.112:3389 | ChatGPT Next Web | 2023-11-08 | 否 | 
+| 709 | http://193.111.31.235:3000 | ChatGPT API Demo | 2023-11-08 | 否 | 
+| 708 | http://101.43.255.252 | ChatGPT Next Web | 2023-11-08 | 否 | 
+| 707 | http://118.31.3.82 | ChatGPT Web | 2023-11-08 | 否 | 
+| 706 | http://113.118.46.207:3002 | ChatGPT Next Web | 2023-11-08 | 否 | 
+| 705 | http://47.96.137.59:8081 | ChatGPT Web | 2023-11-08 | 否 | 
+| 704 | http://chat2.shikicc.com | ChatGPT Next Web | 2023-11-08 | 否 | 
+| 703 | http://69.235.172.53:8443 | ChatGPT Next Web | 2023-11-08 | 否 | 
 | 702 | http://www.wit-info.net:3000 | ChatGPT Next Web | 2023-11-07 | 否 | 
 | 701 | http://52.83.113.88:8443 | ChatGPT Next Web | 2023-11-07 | 否 | 
 | 700 | http://103.200.29.31:12315 | ChatGPT Next Web | 2023-11-07 | 否 | 
