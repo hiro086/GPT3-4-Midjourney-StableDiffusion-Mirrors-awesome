@@ -8,6 +8,16 @@
 
 | 序号 | 站点链接 | 站点名称 | 更新时间 | 免 KEY/支持注册 |
 | ---- | --------------------------- | --------------- | --------------- | --- |
+| 572 | http://42.51.49.54:3002 | ChatGPT Web | 2023-12-22 | 否 | 
+| 571 | http://110.42.185.227:4000 | ChatGPT Next Web | 2023-12-22 | 否 | 
+| 570 | http://2.56.119.187 | ChatGPT Web | 2023-12-22 | 否 | 
+| 569 | http://123.56.125.117 | ChatGPT Next Web | 2023-12-22 | 否 | 
+| 568 | https://chat.venise.vip | ChatGPT Next Web | 2023-12-22 | 否 | 
+| 567 | http://101.35.84.173:81 | ChatGPT Next Web | 2023-12-22 | 否 | 
+| 566 | http://123.57.13.5:3001 | ChatGPT Next Web | 2023-12-22 | 否 | 
+| 565 | http://54.67.79.197:81 | ChatGPT Next Web | 2023-12-22 | 否 | 
+| 564 | http://43.139.60.35:8003 | ChatGPT Next Web | 2023-12-22 | 否 | 
+| 563 | http://109.206.247.135 | ChatGPT Web | 2023-12-22 | 否 | 
 | 562 | https://nc.openai.help | ChatGPT Next Web | 2023-12-21 | 否 | 
 | 561 | http://nc.openai.help | ChatGPT Next Web | 2023-12-21 | 否 | 
 | 560 | http://8.219.242.157 | ChatGPT UI | 2023-12-21 | 否 | 
